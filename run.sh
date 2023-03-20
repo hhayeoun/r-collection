@@ -3,7 +3,7 @@
 # Default resources are 1 core with 2.8GB of memory per core.
 
 # job name:
-#SBATCH -J Reddit_Parse
+#SBATCH -J Reddit_Parse_T
 
 
 # email error reports
